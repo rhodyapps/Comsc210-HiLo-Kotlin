@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "TN HiLo Kotlin 2021 V4"
